@@ -1,0 +1,16 @@
+{
+	"postgre": {
+		"host": "localhost",
+		"port": 5432,
+		"url": "",
+		"database": "ManageStore",
+		"password": "admin",
+		"name": "postgre",
+		"user": "postgres",
+		"connector": "postgresql"
+	},
+	"memory": {
+		"name": "memory",
+		"connector": "memory"
+	}
+}
